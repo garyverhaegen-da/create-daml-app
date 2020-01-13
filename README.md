@@ -1,3 +1,7 @@
+# PROJECT MOVED
+
+This project has been moved [to the digital-asset organization](https://github.com/digital-asset/create-daml-app). Future developments will happen there.
+
 **DISCLAIMER: This work in progress!**
 
 [![DAML logo](daml-logo.png)](https://www.daml.com)
